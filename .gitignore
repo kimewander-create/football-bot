@@ -1,0 +1,23 @@
+# Node
+node_modules/
+package-lock.json
+*.log
+
+# Data
+data/*.db
+data/*.db-journal
+
+# Screenshots
+screenshots/*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
